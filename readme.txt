@@ -1,2 +1,2 @@
 # hello-world
-Leittext-Aufgabe Git Basics (M426)
+Leittext Aufgabe Git Basics (M320 - Praxis 3)
