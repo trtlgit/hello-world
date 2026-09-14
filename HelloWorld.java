@@ -10,4 +10,8 @@ public class HelloWorld {
         return i;
     }
 
+    public void setI(int i) {
+        this.i = i;
+    }
+
 }
